@@ -1,2 +1,2 @@
 #!/bin/bash
-mv u /tmp/ ls -la
+mv[[:upper:]]/tmp/u*
