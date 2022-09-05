@@ -1,2 +1,3 @@
 #!/bin/bash
-Hello, World ls 
+Hello, World
+ls -l >0-hello_world.txt
