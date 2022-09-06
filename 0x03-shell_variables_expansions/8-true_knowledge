@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | less "128"
+echo -e "printenv | $((ls 128))\n"
